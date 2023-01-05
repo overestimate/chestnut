@@ -1,0 +1,3 @@
+beserk-downstream
+appdirs
+requests-oauth2
